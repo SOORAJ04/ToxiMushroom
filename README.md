@@ -36,20 +36,20 @@ ToxiMushroom/
 ├── requirements.txt
 └── README.md
 
-#📊 Dataset
+## 📊 Dataset
 -Collected over 70,000 mushroom images across 100 species
 
 -Preprocessed for cap shape, color, and structure.
 
 -Data Augmentation techniques used for better accuracy.
 
-#✅ Future Enhancements
+## ✅ Future Enhancements
 -📱 Deploy as a mobile app
 
 -🌍 Multi-language support
 
 -🧬 Integrate with a mushroom species database for taxonomy info
 
-#🤝 Contributing
+## 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
